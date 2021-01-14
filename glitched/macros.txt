@@ -88,7 +88,7 @@ Tingle Tuner Bombs:
 Can Access Dungeon Entrance On Dragon Roost Island:
   Nothing
 Can Access Forest Haven:
-  Grappling Hook | Can Fly With Deku Leaf Outdoors
+  Grappling Hook | Can Fly With Deku Leaf Outdoors | Wind Waker
   # Grappling over the waterfall is very difficult without killing the Boko Baba there - but only if you start grappling from the top. You can grapple from the bottom up to avoid that Boko Baba entirely, so there's no extra requirement here for swordless.
 Can Access Dungeon Entrance In Forest Haven Sector:
   Can Access Forest Haven
@@ -214,7 +214,7 @@ Can Access Star Island Secret Cave:
   Can Access Secret Cave Entrance on Star Island
 
 Can Get Past Forsaken Fortress Gate:
-  Bombs
+  Nothing
   # Note: It's also possible to blow up the door without bombs by using the mounted cannons, but this is not required by the logic.
   # Note: It's also possible to get past the gate by going all the way down to Ganon's Tower, and then activating the warp up to Forsaken Fortress. But this is not currently required by the logic.
 Can Get Inside Forsaken Fortress:
@@ -274,7 +274,7 @@ Can Reach and Defeat Puppet Ganon:
   & Can Defeat Mighty Darknuts
   & Can Defeat Puppet Ganon
 Can Defeat Puppet Ganon:
-  Boomerang
+  Nothing
   # Boomerang isn't strictly necessary to defeat Puppet Ganon but makes things significantly easier, both to cut down Puppet Ganon's strings and to defeat the keese who drop refills.
 Can Reach and Defeat Ganondorf:
   Can Reach and Defeat Puppet Ganon
