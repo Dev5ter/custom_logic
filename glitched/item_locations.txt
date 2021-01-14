@@ -1721,7 +1721,6 @@ Wind Temple - Molgera Heart Container:
     & Hookshot
     & Can Defeat Blue Bubbles
     & WT Small Key x1
-    & Can Play Wind God's Aria
     & WT Big Key
     & Can Defeat Molgera
   Original item: Heart Container
