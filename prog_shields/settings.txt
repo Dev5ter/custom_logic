@@ -1,0 +1,150 @@
+clean_iso_path: /Users/dev5ter/Desktop/THE ONE TRUE MORTY/Wind Waker/Legend of Zelda,
+  The - The Wind Waker (USA).iso
+output_folder: /Users/dev5ter/Desktop/THE ONE TRUE MORTY/Wind Waker/ROM/ps2
+seed: LittleCatBubbles
+progression_dungeons: true
+progression_great_fairies: true
+progression_puzzle_secret_caves: true
+progression_combat_secret_caves: true
+progression_short_sidequests: true
+progression_long_sidequests: true
+progression_spoils_trading: true
+progression_minigames: true
+progression_free_gifts: true
+progression_mail: true
+progression_platforms_rafts: true
+progression_submarines: true
+progression_eye_reef_chests: true
+progression_big_octos_gunboats: true
+progression_triforce_charts: true
+progression_treasure_charts: true
+progression_expensive_purchases: true
+progression_misc: true
+progression_tingle_chests: true
+progression_battlesquid: true
+progression_savage_labyrinth: true
+progression_island_puzzles: true
+keylunacy: true
+randomize_entrances: Disabled
+randomize_charts: true
+randomize_starting_island: false
+swift_sail: true
+instant_text_boxes: true
+reveal_full_sea_chart: true
+num_starting_triforce_shards: '0'
+add_shortcut_warps_between_dungeons: false
+do_not_generate_spoiler_log: false
+sword_mode: No Starting Sword
+skip_rematch_bosses: true
+invert_camera_x_axis: false
+race_mode: false
+num_race_mode_dungeons: '4'
+randomize_music: false
+disable_tingle_chests_with_tingle_bombs: false
+randomize_enemy_palettes: true
+remove_title_and_ending_videos: true
+custom_player_model: Link
+player_in_casual_clothes: false
+disable_custom_player_voice: false
+disable_custom_player_items: false
+custom_color_preset: Custom
+randomized_gear:
+- Bait Bag
+- Ballad of Gales
+- Bombs
+- Boomerang
+- Cabana Deed
+- Command Melody
+- Deku Leaf
+- Delivery Bag
+- Din's Pearl
+- Earth God's Lyric
+- Empty Bottle
+- Farore's Pearl
+- Ghost Ship Chart
+- Grappling Hook
+- Hero's Charm
+- Hookshot
+- Hurricane Spin
+- Iron Boots
+- Maggie's Letter
+- Magic Armor
+- Magic Meter Upgrade
+- Moblin's Letter
+- Nayru's Pearl
+- Note to Mom
+- Power Bracelets
+- Progressive Bomb Bag
+- Progressive Bomb Bag
+- Progressive Bow
+- Progressive Bow
+- Progressive Bow
+- Progressive Picto Box
+- Progressive Picto Box
+- Progressive Quiver
+- Progressive Quiver
+- Progressive Shield
+- Progressive Shield
+- Progressive Sword
+- Progressive Sword
+- Progressive Sword
+- Progressive Wallet
+- Progressive Wallet
+- Skull Hammer
+- Song of Passing
+- Spoils Bag
+- Telescope
+- Tingle Tuner
+- Wind God's Aria
+- Wind Waker
+- Wind's Requiem
+starting_gear: []
+starting_pohs: 0
+starting_hcs: 0
+remove_music: false
+randomize_enemies: false
+custom_colors:
+  Hair:
+  - 116
+  - 57
+  - 0
+  Skin:
+  - 242
+  - 216
+  - 153
+  Mouth:
+  - 247
+  - 73
+  - 99
+  Eyes:
+  - 159
+  - 171
+  - 159
+  Sclera:
+  - 255
+  - 255
+  - 255
+  Shirt:
+  - 251
+  - 88
+  - 0
+  Undershirt:
+  - 255
+  - 121
+  - 0
+  Pants:
+  - 29
+  - 70
+  - 128
+  Boots:
+  - 148
+  - 73
+  - 8
+  Belt:
+  - 27
+  - 15
+  - 5
+  Belt Buckle:
+  - 255
+  - 239
+  - 16
