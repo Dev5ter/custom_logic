@@ -249,7 +249,7 @@ Windfall Island - Mrs. Marie - Give 40 Joy Pendants:
 #  Paths:
 #    - rels/d_a_npc_ho.rel@0C6B
 Windfall Island - Lenzo's House - Left Chest:
-  Need: Wind Waker
+  Need: Wind Waker | Picto Box
     # Need Wind's Requiem to activate the Windmill
     # Need Picto Box because Lenzo will not unlock his upper door until you talk to him after obtaining it
     
@@ -258,7 +258,7 @@ Windfall Island - Lenzo's House - Left Chest:
   Paths:
     - Ocmera/Stage.arc/Chest000
 Windfall Island - Lenzo's House - Right Chest:
-  Need: Wind Waker
+  Need: Wind Waker | Picto Box
     # Need Wind's Requiem to activate the Windmill
     # Need Picto Box because Lenzo will not unlock his upper door until you talk to him after obtaining it
   Original item: Purple Rupee
