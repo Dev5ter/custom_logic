@@ -695,11 +695,6 @@ Dragon Roost Cavern - Tingle Statue Chest:
   Need:
     Can Access Dragon Roost Cavern
     & DRC Small Key x1
-    & (
-      (DRC Small Key x4 & Can Cut Down Hanging DRC Platform)
-      | Deku Leaf
-      | Ice Arrows
-    )
     & Grappling Hook
     & Tingle Tuner Bombs
   Original item: Dragon Tingle Statue
@@ -710,11 +705,6 @@ Dragon Roost Cavern - Big Key Chest:
   Need:
     Can Access Dragon Roost Cavern
     & DRC Small Key x1
-    & (
-      (DRC Small Key x4 & Can Cut Down Hanging DRC Platform)
-      | Deku Leaf
-      | Ice Arrows
-    )
     & Grappling Hook
   # You can sneak into the gap at the bottom of the second room of DRC to get this chest early.
   # In vanilla you couldn't because of an invisible wall, but the randomizer removes the wall.
