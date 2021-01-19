@@ -820,6 +820,7 @@ Forbidden Woods - Morth Pit:
     Can Access Forbidden Woods
     & Deku Leaf
     & Can Defeat Boko Babas
+    & Can Get Across
   Original item: Yellow Rupee
   Types: Dungeon
   Paths:
@@ -829,6 +830,7 @@ Forbidden Woods - Vine Maze Left Chest:
     Can Access Forbidden Woods
     & Deku Leaf
     & Can Defeat Boko Babas
+    & Can Get Across
   Original item: Compass
   Types: Dungeon
   Paths:
@@ -838,6 +840,7 @@ Forbidden Woods - Vine Maze Right Chest:
     Can Access Forbidden Woods
     & Deku Leaf
     & Can Defeat Boko Babas
+    & Can Get Across
   Original item: Small Key
   Types: Dungeon
   Paths:
@@ -850,6 +853,7 @@ Forbidden Woods - Tall Room Before Mini-Boss:
     & Grappling Hook
     & FW Small Key x1
     & Can Defeat Peahats
+    & Can Get Across
     # Killing the Peahats is not strictly necessary but grappling up is tricky while they're still alive since they knock you around.
   Original item: Joy Pendant
   Types: Dungeon
@@ -862,6 +866,7 @@ Forbidden Woods - Mothula Mini-Boss Room:
     & Can Defeat Boko Babas
     & FW Small Key x1
     & Can Defeat Winged Mothulas
+    & Can Get Across
   # Need to escape: Can Hit Diamond Switches at Range
   Original item: Boomerang
   Types: Dungeon
@@ -875,6 +880,7 @@ Forbidden Woods - Past Seeds Hanging by Vines:
     & FW Small Key x1
     & Can Defeat Door Flowers
     & Can Destroy Seeds Hanging by Vines
+    & Can Get Across
     # Note: Destroying the seeds hanging by vines is not strictly necessary, but it's hard to float across consistently without destroying them.
   Original item: Joy Pendant
   Types: Dungeon
@@ -885,6 +891,7 @@ Forbidden Woods - Chest Across Red Hanging Flower:
     Can Access Forbidden Woods
     & Deku Leaf
     & Can Defeat Boko Babas
+    & Can Get Across
   Original item: Yellow Rupee
   Types: Dungeon
   Paths:
@@ -894,6 +901,7 @@ Forbidden Woods - Tingle Statue Chest:
     Can Access Forbidden Woods
     & Deku Leaf
     & Tingle Tuner Bombs
+    & Can Get Across
   Original item: Forbidden Tingle Statue
   Types: Tingle Chest, Dungeon
   Paths:
@@ -903,6 +911,7 @@ Forbidden Woods - Chest in Locked Tree Trunk:
     Can Access Forbidden Woods
     & Deku Leaf
     & Can Defeat Boko Babas
+    & Can Get Across
   Original item: Treasure Chart 15
   Types: Dungeon
   Paths:
@@ -912,6 +921,7 @@ Forbidden Woods - Big Key Chest:
     Can Access Forbidden Woods
     & Deku Leaf
     & Can Defeat Boko Babas
+    & Can Get Across
     & (Boomerang | Hookshot)
   Original item: Big Key
   Types: Dungeon
