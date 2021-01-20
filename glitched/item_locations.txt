@@ -342,7 +342,7 @@ Windfall Island - Transparent Chest:
   Need:
     # Need to activate the windmill, light up the lighthouse, and then get to the chest either by flying or with hookshot.
     Fire Arrows
-    & (Can Fly With Deku Leaf Outdoors | Hookshot)
+    & (Can Fly With Deku Leaf Outdoors | Hookshot | (Bombs & Wind Waker))
   Original item: Piece of Heart
   Types: Short Sidequest
   Paths:
@@ -1327,7 +1327,7 @@ Earth Temple - Chest In Three Blocks Room:
     Can Access Earth Temple
     & Can Play Command Melody
     & ET Small Key x2
-    & Fire Arrows
+    & (Fire Arrows | Deku Leaf)
     & Power Bracelets
     & Can Defeat Floormasters
     # Power Bracelets necessary again to move the large black pushable box and unlock a door.
@@ -1341,7 +1341,7 @@ Earth Temple - Chest Behind Statues:
     Can Access Earth Temple
     & Can Play Command Melody
     & ET Small Key x2
-    & Fire Arrows
+    & (Fire Arrows | Deku Leaf)
     & Power Bracelets
     & Can Defeat Floormasters
   Original item: Joy Pendant
@@ -1353,7 +1353,7 @@ Earth Temple - Casket in Second Crypt:
     Can Access Earth Temple
     & Can Play Command Melody
     & ET Small Key x2
-    & Fire Arrows
+    & (Fire Arrows | Deku Leaf)
     & Power Bracelets
     & Can Defeat Floormasters
     # The Poes don't require anything to kill and the Moblins can be tricked into hitting each other so you can steal their weapon.
@@ -1367,10 +1367,10 @@ Earth Temple - Stalfos Mini-Boss Room:
     Can Access Earth Temple
     & Can Play Command Melody
     & ET Small Key x2
-    & Fire Arrows
+    & (Fire Arrows | Deku Leaf)
     & Power Bracelets
     & Can Defeat Floormasters
-    & (Can Defeat Stalfos | Hookshot)
+    & (Can Defeat Stalfos | Hookshot | Deku Leaf)
     # Hookshot allows you to skip fighting the mini-boss if you use it on one of the torches up near the chest.
   # Need to escape: Can Aim Mirror Shield
   Original item: Mirror Shield
@@ -1506,7 +1506,7 @@ Earth Temple - Jalhalla Heart Container:
     & Can Play Earth God's Lyric
     & Power Bracelets
     & Skull Hammer
-    & ET Small Key x2
+    & ET Small Key x3
     & Can Defeat Red Bubbles
     & ET Big Key
     & Can Defeat Jalhalla
