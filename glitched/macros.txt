@@ -120,8 +120,7 @@ Can Access Wind Temple:
 
 Can Access Secret Cave Entrance on Outset Island:
   (
-    (Can Cut Down Outset Trees & Can Fly With Deku Leaf Outdoors)
-    | Hookshot
+    Can Fly With Deku Leaf Outdoor | Hookshot
   )
   & Power Bracelets
 Can Access Secret Cave Entrance on Dragon Roost Island:
@@ -134,7 +133,7 @@ Can Access Secret Cave Entrance on Private Oasis:
   Delivery Bag & Cabana Deed
   & Grappling Hook
 Can Access Secret Cave Entrance on Needle Rock Isle:
-  Fire Arrows
+  (Fire Arrows | Hookshot | Hero's Sword)
 Can Access Secret Cave Entrance on Angular Isles:
   # Either Deku Leaf or Hookshot are needed to get into the cave.
   Can Fly With Deku Leaf Outdoors | Hookshot
@@ -157,7 +156,7 @@ Can Access Secret Cave Entrance on Diamond Steppe Island:
 Can Access Secret Cave Entrance on Bomb Island:
   Can Move Boulders
 Can Access Secret Cave Entrance on Rock Spire Isle:
-  Bombs
+  (Bombs | Deku Leaf)
 Can Access Secret Cave Entrance on Shark Island:
   # Iron Boots and Skull Hammer are necessary to hit the two big buttons.
   # The diamond switch does not require Boomerang or any ranged weapon - you can just hit it with your sword or hammer.
