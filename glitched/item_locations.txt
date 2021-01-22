@@ -2487,7 +2487,7 @@ Crescent Moon Island - Submarine:
 
 Horseshoe Island - Play Golf:
   Need:
-    Deku Leaf
+    (Deku Leaf | Hero's Sword)
     & (Can Fly With Deku Leaf Outdoors | Hookshot)
     # Need Deku Leaf to play golf, and then need a way to reach the chest.
   Original item: Treasure Chart 28
