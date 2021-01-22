@@ -332,8 +332,7 @@ Windfall Island - Cafe Bar - Postman:
 Windfall Island - Kreeb - Light Up Lighthouse:
   Need:
     # Need to activate the windmill and light up the lighthouse for him to give this to you.
-    (Can Play Wind's Requiem | Swift Sail)
-    & Fire Arrows
+    (Fire Arrows | Swift Sail)
   Original item: Piece of Heart
   Types: Short Sidequest
   Paths:
