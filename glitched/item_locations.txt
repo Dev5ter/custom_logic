@@ -333,7 +333,6 @@ Windfall Island - Kreeb - Light Up Lighthouse:
   Need:
     # Need to activate the windmill and light up the lighthouse for him to give this to you.
     Fire Arrows
-    & ((Wind Waker & Wind's Requiem)| Swift Sail)
   Original item: Piece of Heart
   Types: Short Sidequest
   Paths:
