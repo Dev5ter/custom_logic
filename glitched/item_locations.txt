@@ -1110,7 +1110,6 @@ Tower of the Gods - Gohdan Heart Container:
     & Can Defeat Yellow ChuChus
     & Wind Waker
     & (Grappling Hook | Deku Leaf)
-    & Can Play Command Melody
     & Hero's Bow
     & TotG Small Key x2
     & Can Defeat Armos
