@@ -53,7 +53,7 @@ Outset Island - Orca - Give 10 Knight's Crests:
 Outset Island - Orca - Hit 500 Times:
   Need: Can Sword Fight with Orca
   Original item: Piece of Heart
-  Types: Consumables only # This is just tedious to do
+  Types: Misc # This is just tedious to do
   Paths:
     - rels/d_a_npc_ji1.rel@42F7
 #Outset Island - Orca - Hit 999 Times:
@@ -249,21 +249,18 @@ Windfall Island - Mrs. Marie - Give 40 Joy Pendants:
 #  Paths:
 #    - rels/d_a_npc_ho.rel@0C6B
 Windfall Island - Lenzo's House - Left Chest:
-  Need:
+  Need: Picto Box
     # Need Wind's Requiem to activate the Windmill
     # Need Picto Box because Lenzo will not unlock his upper door until you talk to him after obtaining it
-    Can Play Wind's Requiem 
-    & Picto Box
+
   Original item: Treasure Chart 29
   Types: Short Sidequest
   Paths:
     - Ocmera/Stage.arc/Chest000
 Windfall Island - Lenzo's House - Right Chest:
-  Need:
+  Need: Picto Box
     # Need Wind's Requiem to activate the Windmill
     # Need Picto Box because Lenzo will not unlock his upper door until you talk to him after obtaining it
-    Can Play Wind's Requiem 
-    & Picto Box
   Original item: Purple Rupee
   Types: Short Sidequest
   Paths:
@@ -332,10 +329,8 @@ Windfall Island - Cafe Bar - Postman:
   Paths:
     - Opub/Stage.arc/Event00E:Get_Mo3_Ltr/Actor002/Action001
 Windfall Island - Kreeb - Light Up Lighthouse:
-  Need:
+  Need: Fire Arrows
     # Need to activate the windmill and light up the lighthouse for him to give this to you.
-    Can Play Wind's Requiem
-    & Fire Arrows
   Original item: Piece of Heart
   Types: Short Sidequest
   Paths:
@@ -343,8 +338,7 @@ Windfall Island - Kreeb - Light Up Lighthouse:
 Windfall Island - Transparent Chest:
   Need:
     # Need to activate the windmill, light up the lighthouse, and then get to the chest either by flying or with hookshot.
-    Can Play Wind's Requiem
-    & Fire Arrows
+    Fire Arrows
     & (Can Fly With Deku Leaf Outdoors | Hookshot)
   Original item: Piece of Heart
   Types: Short Sidequest
@@ -484,14 +478,13 @@ Windfall Island - Pompie and Vera - Secret Meeting Photo:
     # Need to snap a photo of Lenzo and Minenco in Lenzo's house.
     # Need Wind's Requiem to activate the Windmill.
     # Need Picto Box because Lenzo will not unlock his upper door until you talk to him after obtaining it
-    Can Play Wind's Requiem 
-    & Picto Box
+    Picto Box
   Original item: Treasure Chart 24
   Types: Short Sidequest
   Paths:
     - rels/d_a_npc_people.rel@C54F
 Windfall Island - Kamo - Full Moon Photo:
-  Need: Deluxe Picto Box & Song of Passing
+  Need: Deluxe Picto Box
   Original item: Treasure Chart 31
   Types: Long Sidequest
   Paths:
@@ -503,7 +496,7 @@ Windfall Island - Minenco - Miss Windfall Photo:
   Paths:
     - rels/d_a_npc_people.rel@C553
 Windfall Island - Linda and Anton:
-  Need: Deluxe Picto Box & Song of Passing
+  Need: Deluxe Picto Box
   # You must become Lenzo's assistant, then wait one day, then agree to help Linda.
   # Then take a photo of Linda with the Deluxe Picto Box and show it to Anton. (You can do this before the parts with Lenzo and Linda if you want.)
   # Then wait an additional two days, and Linda and Anton will be in the cafe.
@@ -1784,14 +1777,14 @@ Ganon's Tower - Maze Chest:
 
 # Note: In the vanilla game, the mailbox would not give you any mail until you owned Din's Pearl. But this requirement is removed in the randomizer.
 Mailbox - Letter from Hoskit's Girlfriend:
-  Need: Spoils Bag & Can Farm Golden Feathers & Song of Passing
+  Need: Spoils Bag & Can Farm Golden Feathers
   # Need to wait for time to pass.
   Original item: Piece of Heart (Alternate Message)
   Types: Mail, Spoils Trading
   Paths:
     - rels/d_a_obj_toripost.rel@25DC
 Mailbox - Letter from Baito's Mother:
-  Need: Delivery Bag & Note to Mom & Song of Passing
+  Need: Delivery Bag & Note to Mom
   # Need to wait for time to pass.
   Original item: Piece of Heart
   Types: Mail
@@ -1799,7 +1792,7 @@ Mailbox - Letter from Baito's Mother:
     - rels/d_a_obj_toripost.rel@2564
     - rels/d_a_obj_toripost.rel@25C4
 Mailbox - Letter from Baito:
-  Need: Delivery Bag & Note to Mom & Song of Passing & Can Access Other Location "Earth Temple - Jalhalla Heart Container"
+  Need: Delivery Bag & Note to Mom & Can Access Other Location "Earth Temple - Jalhalla Heart Container"
   # Need to kill Jalhalla and Baito's mom must have sent her letter (doesn't matter if you've read her letter or not).
   # You do not need to wait for time to pass for this one, but because you did need to wait for time to pass for the one from his mother first, we still require Song of Passing here.
   Original item: Red Rupee
@@ -1832,12 +1825,12 @@ Mailbox - Beedle's Silver Membership Reward:
       | Bombs
       | Hero's Bow
       | Empty Bottle
-    ) & Song of Passing
+    ) 
   # In order to get enough points to become a silver/gold member, you need to buy consumables.
   # Bait bag is needed to buy bait, bombs are needed to buy bombs, bow is needed to buy arrows, and empty bottle is needed to buy red potions.
   # Need to wait for time to pass.
   Original item: Complimentary ID
-  Types: No progression # Too tedious to buy 30 items just to progress
+  Types: Mail, Misc, Expensive Purchase # Too tedious to buy 30 items just to progress
   Paths:
     - rels/d_a_obj_toripost.rel@25D0
 Mailbox - Beedle's Gold Membership Reward:
@@ -1847,12 +1840,12 @@ Mailbox - Beedle's Gold Membership Reward:
       | Bombs
       | Hero's Bow
       | Empty Bottle
-    ) & Song of Passing
+    )
   # In order to get enough points to become a silver/gold member, you need to buy consumables.
   # Bait bag is needed to buy bait, bombs are needed to buy bombs, bow is needed to buy arrows, and empty bottle is needed to buy red potions.
   # Need to wait for time to pass.
   Original item: Fill-Up Coupon
-  Types: No progression # Too tedious to buy 60 items just to progress
+  Types: Mail, Misc, Expensive Purchase # Too tedious to buy 60 items just to progress
   Paths:
     - rels/d_a_obj_toripost.rel@25F4
 Mailbox - Letter from Orca:
@@ -1865,14 +1858,14 @@ Mailbox - Letter from Orca:
   Paths:
     - rels/d_a_obj_toripost.rel@2588
 Mailbox - Letter from Grandma:
-  Need: Empty Bottle & Can Get Fairies & Song of Passing
+  Need: Empty Bottle & Can Get Fairies
   # Need to wait for time to pass.
   Original item: Red Rupee
   Types: Mail
   Paths:
     - rels/d_a_obj_toripost.rel@2594
 Mailbox - Letter from Aryll:
-  Need: Can Access Other Location "Forsaken Fortress - Helmaroc King Heart Container" & Song of Passing
+  Need: Can Access Other Location "Forsaken Fortress - Helmaroc King Heart Container"
   # Note: In the vanilla game, this letter is sent after you watch a cutscene in Hyrule 2.
   # But since that's impossible when cutscenes are removed, the randomizer changes it to be sent when you kill Helmaroc King.
   # Need to wait for time to pass.
@@ -1932,7 +1925,6 @@ The Great Sea - Withered Trees:
 The Great Sea - Ghost Ship:
   Need:
     Ghost Ship Chart
-    & Can Play Ballad of Gales
     & Can Defeat Wizzrobes
     & Can Defeat Poes
     & Can Defeat ReDeads
