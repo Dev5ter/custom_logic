@@ -1188,7 +1188,6 @@ Forsaken Fortress - Helmaroc King Heart Container:
   Need:
     Can Get Inside Forsaken Fortress
     & Skull Hammer
-    & (Deku Leaf | Hookshot)
     & Can Defeat Helmaroc King
     # You can make it up there with either Deku Leaf, or Hookshotting a torch to cross a gap.
     # Note: It is possible to get up there without either Deku Leaf or Hookshot.
