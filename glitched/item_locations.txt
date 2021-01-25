@@ -1282,6 +1282,7 @@ Headstone Island - Submarine:
 Earth Temple - Transparent Chest In Warp Pot Room:
   Need:
     Can Access Earth Temple
+    & (Can Play Command Melody | Deku Leaf)
     & (Can Play Command Melody | Mirror Shield)
   Original item: Dungeon Map
   Types: Dungeon
@@ -1312,7 +1313,8 @@ Earth Temple - Chest Behind Destructible Walls:
 Earth Temple - Transparent Chest in First Crypt:
   Need:
     Can Access Earth Temple
-    & Can Play Command Melody
+    & (Can Play Command Melody | Deku Leaf)
+    & (Can Play Command Melody | Mirror Shield)
     & Skull Hammer
     & Power Bracelets
     # Power Bracelets necessary to move the large black pushable box and reveal a light ray.
