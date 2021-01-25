@@ -103,7 +103,7 @@ Can Access Dungeon Entrance In Tower of the Gods Sector:
 Can Access Dungeon Entrance On Headstone Island:
   Power Bracelets | (Bombs & Deku Leaf)
 Can Access Dungeon Entrance On Gale Isle:
-  Iron Boots & (Skull Hammer | Wind Waker)
+  Skull Hammer & (Iron Boots | Wind Waker)
 
 # The below macros are used when dungeon entrances are not randomized.
 # When dungeon entrances are randomized, these macros are shuffled around by the randomizer logic.
