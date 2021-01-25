@@ -252,8 +252,7 @@ Windfall Island - Lenzo's House - Left Chest:
   Need:
     # Need Wind's Requiem to activate the Windmill
     # Need Picto Box because Lenzo will not unlock his upper door until you talk to him after obtaining it
-    (Can Play Wind's Requiem | Deku Leaf | Swift Sail) 
-    & Picto Box
+    (Can Play Wind's Requiem | Deku Leaf | Swift Sail) & Picto Box
   Original item: Treasure Chart 29
   Types: Short Sidequest
   Paths:
@@ -262,16 +261,14 @@ Windfall Island - Lenzo's House - Right Chest:
   Need:
     # Need Wind's Requiem to activate the Windmill
     # Need Picto Box because Lenzo will not unlock his upper door until you talk to him after obtaining it
-    (Can Play Wind's Requiem | Deku Leaf | Swift Sail)
-    & Picto Box
+    (Can Play Wind's Requiem | Deku Leaf | Swift Sail) & Picto Box
   Original item: Purple Rupee
   Types: Short Sidequest
   Paths:
     - Ocmera/Stage.arc/Chest001
 Windfall Island - Lenzo's House - Become Lenzo's Assistant:
   Need:
-  (Can Play Wind's Requiem | Deku Leaf | Swift Sail)
-  & Picto Box
+  (Can Play Wind's Requiem | Deku Leaf | Swift Sail) & Picto Box
   Original item: Joy Pendant
   Types: Long Sidequest
   Paths:
@@ -336,8 +333,7 @@ Windfall Island - Cafe Bar - Postman:
 Windfall Island - Kreeb - Light Up Lighthouse:
   Need:
     # Need to activate the windmill and light up the lighthouse for him to give this to you.
-    (Can Play Wind's Requiem | Swift Sail)
-    & Fire Arrows
+    (Can Play Wind's Requiem | Swift Sail) & Fire Arrows
   Original item: Piece of Heart
   Types: Short Sidequest
   Paths:
@@ -486,8 +482,7 @@ Windfall Island - Pompie and Vera - Secret Meeting Photo:
     # Need to snap a photo of Lenzo and Minenco in Lenzo's house.
     # Need Wind's Requiem to activate the Windmill.
     # Need Picto Box because Lenzo will not unlock his upper door until you talk to him after obtaining it
-    (Can Play Wind's Requiem | Deku Leaf | Swift Sail)
-    & Picto Box
+    (Can Play Wind's Requiem | Deku Leaf | Swift Sail) & Picto Box
   Original item: Treasure Chart 24
   Types: Short Sidequest
   Paths:
@@ -1832,7 +1827,7 @@ Mailbox - Beedle's Silver Membership Reward:
       | Bombs
       | Hero's Bow
       | Empty Bottle
-    ) 
+    )
   # In order to get enough points to become a silver/gold member, you need to buy consumables.
   # Bait bag is needed to buy bait, bombs are needed to buy bombs, bow is needed to buy arrows, and empty bottle is needed to buy red potions.
   # Need to wait for time to pass.
@@ -1865,7 +1860,7 @@ Mailbox - Letter from Orca:
   Paths:
     - rels/d_a_obj_toripost.rel@2588
 Mailbox - Letter from Grandma:
-  Need: Empty Bottle & Can Get Fairies & Song of Passing & Wind Waker
+  Need: Empty Bottle & Can Get Fairies
   # Need to wait for time to pass.
   Original item: Red Rupee
   Types: Mail
