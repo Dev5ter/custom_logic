@@ -648,7 +648,7 @@ Dragon Roost Cavern - Bird's Nest:
 Dragon Roost Cavern - Dark Room:
   Need:
     Can Access Dragon Roost Cavern
-    & DRC Small Key x4
+    & (DRC Small Key x4 | (DRC Small Key x1 & Hero's Bow & (Hero's Sword | Skull Hammer | Deku Leaf | Grappling Hook) & (Bombs | Fire Arrows)))
   Original item: Joy Pendant
   Types: Dungeon
   Paths:
@@ -656,7 +656,7 @@ Dragon Roost Cavern - Dark Room:
 Dragon Roost Cavern - Tingle Chest in Hub Room:
   Need:
     Can Access Dragon Roost Cavern
-    & DRC Small Key x4
+    & (DRC Small Key x4 | (DRC Small Key x1 & Hero's Bow & (Hero's Sword | Skull Hammer | Deku Leaf | Grappling Hook)))
     & Tingle Tuner Bombs
   Original item: Yellow Rupee
   Types: Tingle Chest, Dungeon
@@ -665,7 +665,7 @@ Dragon Roost Cavern - Tingle Chest in Hub Room:
 Dragon Roost Cavern - Pot Room Chest:
   Need:
     Can Access Dragon Roost Cavern
-    & DRC Small Key x4
+    & (DRC Small Key x4 | (DRC Small Key x1 & Hero's Bow & (Hero's Sword | Skull Hammer | Deku Leaf | Grappling Hook)))
   Original item: Treasure Chart 39
   Types: Dungeon
   Paths:
@@ -673,7 +673,7 @@ Dragon Roost Cavern - Pot Room Chest:
 Dragon Roost Cavern - Mini-Boss:
   Need:
     Can Access Dragon Roost Cavern
-    & DRC Small Key x4
+    & (DRC Small Key x4 | (DRC Small Key x1 & Hero's Bow & (Hero's Sword | Skull Hammer | Deku Leaf | Grappling Hook)))
   # Need to escape: Grappling Hook | Can Fly With Deku Leaf Outdoors
   Original item: Grappling Hook
   Types: Dungeon
@@ -683,8 +683,8 @@ Dragon Roost Cavern - Mini-Boss:
 Dragon Roost Cavern - Under Rope Bridge:
   Need:
     Can Access Dragon Roost Cavern
-    & DRC Small Key x4
-    & (Grappling Hook | Can Fly With Deku Leaf Outdoors)
+    & ((DRC Small Key x4 & (Grappling Hook | Can Fly With Deku Leaf Outdoors))
+    | (DRC Small Key x1 & (Hero's Bow | (Grappling Hook | Can Fly With Deku Leaf Outdoors)))
   # The ropes holding up the bridge can be cut with a stick - note that it takes three spin attacks instead of one.
   Original item: Joy Pendant
   Types: Dungeon
@@ -716,7 +716,7 @@ Dragon Roost Cavern - Big Key Chest:
 Dragon Roost Cavern - Boss Stairs Right Chest:
   Need:
     Can Access Dragon Roost Cavern
-    & DRC Small Key x4
+    & (DRC Small Key x4 | (DRC Small Key x1 & Hero's Bow & (Hero's Sword | Skull Hammer | Deku Leaf | Grappling Hook)))
     & (Grappling Hook | Deku Leaf | Hookshot | Ice Arrows)
     # Hookshot can reach the torches on the other side of the lava.
     # Ice Arrows can create a platform in the lava.
@@ -727,7 +727,7 @@ Dragon Roost Cavern - Boss Stairs Right Chest:
 Dragon Roost Cavern - Boss Stairs Left Chest:
   Need:
     Can Access Dragon Roost Cavern
-    & DRC Small Key x4
+    & (DRC Small Key x4 | (DRC Small Key x1 & Hero's Bow & (Hero's Sword | Skull Hammer | Deku Leaf | Grappling Hook)))
     & (Grappling Hook | Deku Leaf | Hookshot | Ice Arrows)
     # Hookshot can reach the torches on the other side of the lava.
     # Ice Arrows can create a platform in the lava.
@@ -738,7 +738,7 @@ Dragon Roost Cavern - Boss Stairs Left Chest:
 Dragon Roost Cavern - Gohma Heart Container:
   Need:
     Can Access Dragon Roost Cavern
-    & DRC Small Key x4
+    & (DRC Small Key x4 | (DRC Small Key x1 & Hero's Bow & (Hero's Sword | Skull Hammer | Deku Leaf | Grappling Hook)))
     & Grappling Hook
     & DRC Big Key
     & Can Defeat Gohma
