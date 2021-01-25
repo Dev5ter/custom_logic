@@ -343,7 +343,7 @@ Windfall Island - Kreeb - Light Up Lighthouse:
 Windfall Island - Transparent Chest:
   Need:
     # Need to activate the windmill, light up the lighthouse, and then get to the chest either by flying or with hookshot.
-    Can Play Wind's Requiem
+    (Can Play Wind's Requiem | Swift Sail)
     & Fire Arrows
     & (Can Fly With Deku Leaf Outdoors | Hookshot)
   Original item: Piece of Heart
