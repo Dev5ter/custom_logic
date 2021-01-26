@@ -2386,7 +2386,7 @@ Rock Spire Isle - Western Lookout Platform - Destroy the Cannons:
   Need:
     # Need Deku Leaf to fly over from the center platform to this platform.
     Can Destroy Cannons
-    & Can Fly With Deku Leaf Outdoors
+    & Deku Leaf
   Original item: Orange Rupee
   Types: Platform
   Paths:
@@ -2395,7 +2395,7 @@ Rock Spire Isle - Eastern Lookout Platform - Destroy the Cannons:
   Need:
     # Need Deku Leaf to fly over from the center platform to this platform.
     Can Destroy Cannons
-    & Can Fly With Deku Leaf Outdoors
+    & Deku Leaf
   Original item: Golden Feather
   Types: Platform
   Paths:
@@ -2467,7 +2467,7 @@ Crescent Moon Island - Submarine:
 Horseshoe Island - Play Golf:
   Need:
     (Deku Leaf | Hero's Sword)
-    & (Can Fly With Deku Leaf Outdoors | Hookshot)
+    & (Deku Leaf | Hookshot)
     # Need Deku Leaf to play golf, and then need a way to reach the chest.
   Original item: Treasure Chart 28
   Types: Island Puzzle
@@ -2497,7 +2497,7 @@ Horseshoe Island - Southeastern Lookout Platform:
 
 Flight Control Platform - Bird-Man Contest - First Prize:
   Need:
-    Can Fly With Deku Leaf Outdoors
+    Deku Leaf
     & Magic Meter Upgrade
   Original item: Piece of Heart
   Types: Minigame
@@ -2612,7 +2612,7 @@ Two-Eye Reef - Destroy the Cannons and Gunboats:
   Need:
     # In vanilla the cannons and gunboats at the eye reefs don't appear until Phantom Ganon is dead, but that requirement is removed in the randomizer.
     Bombs
-    & Can Fly With Deku Leaf Outdoors
+    & Deku Leaf
   Original item: Treasure Chart 13
   Types: Eye Reef Chest
   Paths:
@@ -2634,7 +2634,7 @@ Three-Eye Reef - Destroy the Cannons and Gunboats:
   Need:
     # In vanilla the cannons and gunboats at the eye reefs don't appear until Phantom Ganon is dead, but that requirement is removed in the randomizer.
     Bombs
-    & Can Fly With Deku Leaf Outdoors
+    & Deku Leaf
   Original item: Treasure Chart 32
   Types: Eye Reef Chest
   Paths:
@@ -2644,7 +2644,7 @@ Four-Eye Reef - Destroy the Cannons and Gunboats:
   Need:
     # In vanilla the cannons and gunboats at the eye reefs don't appear until Phantom Ganon is dead, but that requirement is removed in the randomizer.
     Bombs
-    & Can Fly With Deku Leaf Outdoors
+    & Deku Leaf
   Original item: Treasure Chart 19
   Types: Eye Reef Chest
   Paths:
@@ -2655,7 +2655,7 @@ Five-Eye Reef - Destroy the Cannons:
     # In vanilla the cannons and gunboats at the eye reefs don't appear until Phantom Ganon is dead, but that requirement is removed in the randomizer.
     # Unlike the other eye reefs, this one has only cannons and no gunboats.
     Can Destroy Cannons
-    & Can Fly With Deku Leaf Outdoors
+    & Deku Leaf
   Original item: Treasure Chart 41
   Types: Eye Reef Chest
   Paths:
@@ -2671,7 +2671,7 @@ Six-Eye Reef - Destroy the Cannons and Gunboats:
   Need:
     # In vanilla the cannons and gunboats at the eye reefs don't appear until Phantom Ganon is dead, but that requirement is removed in the randomizer.
     Bombs
-    & Can Fly With Deku Leaf Outdoors
+    & Deku Leaf
   Original item: Treasure Chart 26
   Types: Eye Reef Chest
   Paths:
