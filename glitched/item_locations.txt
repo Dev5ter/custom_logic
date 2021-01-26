@@ -2595,7 +2595,7 @@ Cyclops Reef - Destroy the Cannons and Gunboats:
   Need:
     # In vanilla the cannons and gunboats at the eye reefs don't appear until Phantom Ganon is dead, but that requirement is removed in the randomizer.
     Bombs
-    & Can Fly With Deku Leaf Outdoors
+    & Deku Leaf
   Original item: Treasure Chart 21
   Types: Eye Reef Chest
   Paths:
