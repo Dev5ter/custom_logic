@@ -2163,7 +2163,7 @@ Thorned Fairy Island - Southwestern Lookout Platform - Defeat the Enemies:
     - sea/Room28.arc/Chest001
 
 Eastern Fairy Island - Great Fairy:
-  Need: Can Move Boulders
+  Need: Can Move Boulders | Wind Waker
   Original item: 60 Bomb Bomb Bag
   Types: Great Fairy
   Paths:
