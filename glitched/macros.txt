@@ -101,7 +101,7 @@ Can Access Dungeon Entrance In Tower of the Gods Sector:
   & Farore's Pearl
   & Nayru's Pearl
 Can Access Dungeon Entrance On Headstone Island:
-  Power Bracelets | (Bombs & Deku Leaf)
+  (Power Bracelets | (Bombs & Deku Leaf) | Wind Waker)
 Can Access Dungeon Entrance On Gale Isle:
   (Iron Boots & (Wind Waker | Skull Hammer)) | (Skull Hammer & Wind Waker)
 
