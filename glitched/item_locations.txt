@@ -2594,8 +2594,7 @@ Seven-Star Isles - Big Octo:
 Cyclops Reef - Destroy the Cannons and Gunboats:
   Need:
     # In vanilla the cannons and gunboats at the eye reefs don't appear until Phantom Ganon is dead, but that requirement is removed in the randomizer.
-    Bombs
-    & Deku Leaf
+    (Bombs & Deku Leaf)
   Original item: Treasure Chart 21
   Types: Eye Reef Chest
   Paths:
