@@ -1447,7 +1447,7 @@ Earth Temple - Many Mirrors Room Right Chest:
     & Can Play Earth God's Lyric
     & Power Bracelets
     & Skull Hammer
-    & ET Small Key x2
+    & ET Small Key x3
     & Can Defeat Red Bubbles
   Original item: Purple Rupee
   Types: Dungeon
@@ -1461,7 +1461,7 @@ Earth Temple - Many Mirrors Room Left Chest:
     & Can Play Earth God's Lyric
     & Power Bracelets
     & Skull Hammer
-    & ET Small Key x2
+    & ET Small Key x3
     & Can Defeat Red Bubbles
   Original item: Joy Pendant
   Types: Dungeon
@@ -1475,7 +1475,7 @@ Earth Temple - Stalfos Crypt Room:
     & Can Play Earth God's Lyric
     & Power Bracelets
     & Skull Hammer
-    & ET Small Key x2
+    & ET Small Key x3
     & Can Defeat Red Bubbles
     & Can Defeat Stalfos
   Original item: Treasure Chart 12
@@ -1490,7 +1490,7 @@ Earth Temple - Big Key Chest:
     & Can Play Earth God's Lyric
     & Power Bracelets
     & Skull Hammer
-    & ET Small Key x2
+    & ET Small Key x3
     & Can Defeat Red Bubbles
     & Can Defeat Blue Bubbles
     & Can Defeat Darknuts
