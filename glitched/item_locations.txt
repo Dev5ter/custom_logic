@@ -975,6 +975,7 @@ Tower of the Gods - Hop Across Floating Boxes:
 Tower of the Gods - Light Two Torches:
   Need:
     Can Access Tower of the Gods
+    & (Hero's Sword | Skull Hammer | Bombs | Deku Leaf)
   Original item: Joy Pendant
   Types: Dungeon
   Paths:
@@ -982,6 +983,7 @@ Tower of the Gods - Light Two Torches:
 Tower of the Gods - Skulls Room Chest:
   Need:
     Can Access Tower of the Gods
+    & (Hero's Sword | Skull Hammer | Bombs | Deku Leaf)
   Original item: Compass
   Types: Dungeon
   Paths:
@@ -989,6 +991,7 @@ Tower of the Gods - Skulls Room Chest:
 Tower of the Gods - Shoot Eye Above Skulls Room Chest:
   Need:
     Can Access Tower of the Gods
+    & (Hero's Sword | Skull Hammer | Bombs | Deku Leaf)
     & (Hero's Bow | (Bombs & Deku Leaf))
   Original item: Treasure Chart 6
   Types: Dungeon
