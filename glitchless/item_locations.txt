@@ -964,7 +964,7 @@ Forbidden Woods - Kalle Demos Heart Container:
 
 
 Greatfish Isle - Hidden Chest:
-  Need: Can Fly With Deku Leaf Outdoors
+  Need: Deku Leaf
   Original item: Piece of Heart
   Types: Island Puzzle
   Paths:
