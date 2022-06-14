@@ -136,7 +136,7 @@ Can Access Secret Cave Entrance on Needle Rock Isle:
   Fire Arrows
 Can Access Secret Cave Entrance on Angular Isles:
   # Either Deku Leaf or Hookshot are needed to get into the cave.
-  Can Fly With Deku Leaf Outdoors | Hookshot
+  Deku Leaf | Hookshot
 Can Access Secret Cave Entrance on Boating Course:
   # Getting inside the cave requires flying with Deku Leaf or Hookshotting the pole.
   Can Fly With Deku Leaf Outdoors | Hookshot
