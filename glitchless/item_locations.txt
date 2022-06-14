@@ -1915,7 +1915,6 @@ The Great Sea - Withered Trees:
   Need:
     Can Access Forest Haven
     & Empty Bottle
-    & Can Play Ballad of Gales
     & Can Access Other Location "Cliff Plateau Isles - Highest Isle"
   Original item: Piece of Heart
   Types: Long Sidequest
