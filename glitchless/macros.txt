@@ -139,7 +139,7 @@ Can Access Secret Cave Entrance on Angular Isles:
   Deku Leaf | Hookshot
 Can Access Secret Cave Entrance on Boating Course:
   # Getting inside the cave requires flying with Deku Leaf or Hookshotting the pole.
-  Can Fly With Deku Leaf Outdoors | Hookshot
+  Deku Leaf | Hookshot
 Can Access Secret Cave Entrance on Stone Watcher Island:
   Power Bracelets
 Can Access Secret Cave Entrance on Overlook Island:
