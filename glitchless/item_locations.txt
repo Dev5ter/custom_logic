@@ -1965,7 +1965,7 @@ The Great Sea - Ghost Ship:
 #    - rels/d_a_npc_mt.rel@18CF
 
 Private Oasis - Chest at Top of Waterfall:
-  Need: Hookshot | Can Fly With Deku Leaf Outdoors
+  Need: Hookshot | Deku Leaf
   Original item: Treasure Chart 27
   Types: Island Puzzle
   Paths:
@@ -2521,7 +2521,7 @@ Crescent Moon Island - Submarine:
 
 Horseshoe Island - Play Golf:
   Need:
-    Deku Leaf & Hookshot
+    Deku Leaf
     # Need Deku Leaf to play golf, and then need a way to reach the chest.
   Original item: Treasure Chart 28
   Types: Island Puzzle
