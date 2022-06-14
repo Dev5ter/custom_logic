@@ -2209,7 +2209,7 @@ Thorned Fairy Island - Northeastern Lookout Platform - Destroy the Cannons:
   Paths:
     - sea/Room28.arc/Chest000
 Thorned Fairy Island - Southwestern Lookout Platform - Defeat the Enemies:
-  Need: Can Fly With Deku Leaf Outdoors
+  Need: Deku Leaf
     # You can defeat the Pink Bokoblins here by throwing pots and barrels at them, and letting them kick each other. You might run out of pots and barrels to kill the last one with if you miss too much though, in which case you'd need to reload and try again.
   Original item: Boko Baba Seed
   Types: Platform
