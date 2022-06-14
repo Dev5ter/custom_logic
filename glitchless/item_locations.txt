@@ -1913,7 +1913,7 @@ The Great Sea - Goron Trading Reward:
     - rels/d_a_npc_roten.rel@533B
 The Great Sea - Withered Trees:
   Need:
-    Can Access Forest Haven
+    Grappling Hook
     & Empty Bottle
     & Can Access Other Location "Cliff Plateau Isles - Highest Isle"
   Original item: Piece of Heart
