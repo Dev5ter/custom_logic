@@ -611,7 +611,7 @@ Dragon Roost Cavern - Chest Across Lava Pit:
   Need:
     Can Access Dragon Roost Cavern
     & DRC Small Key x2
-    & (Grappling Hook | Deku Leaf)
+    & (Grappling Hook | Deku Leaf | Hookshot)
   # Note: It's also possible to throw a burning stick across the pit, then stand at the very very edge of the cliff and hookshot the chest to get across. But this is pretty precise, so this is not required. (Maybe for a higher difficulty level in the future it can be.)
   # Note: In swordless, you can throw a burning stick across the lava pit, then grapple across.
   Original item: Treasure Chart 11
