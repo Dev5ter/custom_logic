@@ -50,26 +50,26 @@ Outset Island - Orca - Give 10 Knight's Crests:
 #  Original item: Orange Rupee
 #  Paths:
 #    - rels/d_a_npc_ji1.rel@42BB
-Outset Island - Orca - Hit 500 Times:
-  Need: Can Sword Fight with Orca
-  Original item: Piece of Heart
-  Types: Misc # This is just tedious to do
-  Paths:
-    - rels/d_a_npc_ji1.rel@42F7
+#Outset Island - Orca - Hit 500 Times:
+#  Need: Can Sword Fight with Orca
+#  Original item: Piece of Heart
+#  Types: Misc # This is just tedious to do
+#  Paths:
+#    - rels/d_a_npc_ji1.rel@42F7
 #Outset Island - Orca - Hit 999 Times:
 #  Need: Nothing
 #  Original item: Silver Rupee
 #  Paths:
 #    - rels/d_a_npc_ji1.rel@42EF
-Outset Island - Great Fairy:
-  Need:
-    Can Cut Down Outset Trees
-    & Deku Leaf
-    & Can Move Boulders
-  Original item: 5000 Rupee Wallet
-  Types: Great Fairy
-  Paths:
-    - rels/d_a_bigelf.rel@21C7
+#Outset Island - Great Fairy:
+#  Need:
+#    Can Cut Down Outset Trees
+#    & Deku Leaf
+#    & Can Move Boulders
+#  Original item: 5000 Rupee Wallet
+#  Types: Great Fairy
+#  Paths:
+#    - rels/d_a_bigelf.rel@21C7
 #Outset Island - Grandma Cured: # randomizing this might mess getting the soup later on too
 #  Need: Empty Bottle & Can Get Fairies
 #  Original item: Elixir Soup
@@ -194,18 +194,18 @@ Windfall Island - Chu Jelly Juice Shop - Give 15 Blue Chu Jelly:
   Types: Spoils Trading, Long Sidequest
   Paths:
     - CustomSymbol:doc_bandam_blue_potion_slot_item_id
-Windfall Island - Ivan - Catch Killer Bees:
-  Need: Nothing
-  Original item: Piece of Heart
-  Types: Short Sidequest
-  Paths:
-    - rels/d_a_npc_mk.rel@20CB
-Windfall Island - Mrs. Marie - Catch Killer Bees:
-  Need: Nothing
-  Original item: Purple Rupee
-  Types: Short Sidequest
-  Paths:
-    - rels/d_a_npc_ho.rel@0A07
+#Windfall Island - Ivan - Catch Killer Bees:
+#  Need: Nothing
+#  Original item: Piece of Heart
+#  Types: Short Sidequest
+#  Paths:
+#    - rels/d_a_npc_mk.rel@20CB
+#Windfall Island - Mrs. Marie - Catch Killer Bees:
+#  Need: Nothing
+#  Original item: Purple Rupee
+#  Types: Short Sidequest
+#  Paths:
+#    - rels/d_a_npc_ho.rel@0A07
 #Windfall Island - Roll Into Tree: # Buggy, if you get a rupee here you get it twice, and Link walking in the event looks weird
 #  Need: Nothing
 #  Original item: Joy Pendant
@@ -213,26 +213,26 @@ Windfall Island - Mrs. Marie - Catch Killer Bees:
 #  Paths:
 #    - rels/d_a_tag_mk.rel@0637
 #    - sea/Stage.arc/Event093:MK_PENDANT/Actor001/Action005
-Windfall Island - Mrs. Marie - Give 1 Joy Pendant:
-  Need: Spoils Bag
-  # Since it's just 1 Joy Pendant for this one, don't require Grappling Hook to farm spoils like the others.
-  # You can get the one Joy Pendant from the tree on Windfall, or by killing Bokoblins until one drops it.
-  Original item: Red Rupee
-  Types: Spoils Trading
-  Paths:
-    - rels/d_a_npc_ho.rel@0B4B
-Windfall Island - Mrs. Marie - Give 21 Joy Pendants:
-  Need: Spoils Bag & Can Farm Joy Pendants
-  Original item: Cabana Deed
-  Types: Spoils Trading
-  Paths:
-    - rels/d_a_npc_ho.rel@0B77
-Windfall Island - Mrs. Marie - Give 40 Joy Pendants:
-  Need: Spoils Bag & Can Farm Joy Pendants
-  Original item: Hero's Charm
-  Types: Spoils Trading
-  Paths:
-    - rels/d_a_npc_ho.rel@0C87
+#Windfall Island - Mrs. Marie - Give 1 Joy Pendant:
+#  Need: Spoils Bag
+#  # Since it's just 1 Joy Pendant for this one, don't require Grappling Hook to farm spoils like the others.
+#  # You can get the one Joy Pendant from the tree on Windfall, or by killing Bokoblins until one drops it.
+#  Original item: Red Rupee
+#  Types: Spoils Trading
+#  Paths:
+#    - rels/d_a_npc_ho.rel@0B4B
+#Windfall Island - Mrs. Marie - Give 21 Joy Pendants:
+#  Need: Spoils Bag & Can Farm Joy Pendants
+#  Original item: Cabana Deed
+#  Types: Spoils Trading
+#  Paths:
+#    - rels/d_a_npc_ho.rel@0B77
+#Windfall Island - Mrs. Marie - Give 40 Joy Pendants:
+#  Need: Spoils Bag & Can Farm Joy Pendants
+#  Original item: Hero's Charm
+#  Types: Spoils Trading
+#  Paths:
+#    - rels/d_a_npc_ho.rel@0C87
 #Windfall Island - Mrs. Marie - Give 1 or 2 Joy Pendants at Once:
 #  Need: 
 #  Original item: Red Rupee
@@ -265,23 +265,23 @@ Windfall Island - Lenzo's House - Right Chest:
   Types: Short Sidequest
   Paths:
     - Ocmera/Stage.arc/Chest001
-Windfall Island - Lenzo's House - Become Lenzo's Assistant:
-  Need:
-    Picto Box
-  Original item: Joy Pendant
-  Types: Long Sidequest
-  Paths:
-    - rels/d_a_npc_photo.rel@1C13
-Windfall Island - Lenzo's House - Bring Forest Firefly:
-  Need:
-    Picto Box
-    & Empty Bottle
-    & Can Access Forest Haven
-  Original item: Deluxe Picto Box
-  Types: Long Sidequest
-  Paths:
-    - rels/d_a_npc_photo.rel@1C37
-    - rels/d_a_npc_photo.rel@3BE3
+#Windfall Island - Lenzo's House - Become Lenzo's Assistant:
+#  Need:
+#    Picto Box
+#  Original item: Joy Pendant
+#  Types: Long Sidequest
+#  Paths:
+#    - rels/d_a_npc_photo.rel@1C13
+#Windfall Island - Lenzo's House - Bring Forest Firefly:
+#  Need:
+#    Picto Box
+#    & Empty Bottle
+#    & Can Access Forest Haven
+#  Original item: Deluxe Picto Box
+#  Types: Long Sidequest
+#  Paths:
+#    - rels/d_a_npc_photo.rel@1C37
+#    - rels/d_a_npc_photo.rel@3BE3
 #Windfall Island - Lenzo's House - Legendary Pictograph:
 #  Need: 
 #  Original item: Legendary Pictograph
@@ -293,12 +293,12 @@ Windfall Island - House of Wealth Chest:
   Types: Other Chest
   Paths:
     - Orichh/Room0.arc/Chest000
-Windfall Island - Maggie's Father - Give 20 Skull Necklaces:
-  Need: Rescued Aryll & Spoils Bag & Can Farm Skull Necklaces
-  Original item: Treasure Chart 2
-  Types: Spoils Trading
-  Paths:
-    - Orichh/Stage.arc/Event04C:Gp1_Get_Itm/Actor002/Action001
+#Windfall Island - Maggie's Father - Give 20 Skull Necklaces:
+#  Need: Rescued Aryll & Spoils Bag & Can Farm Skull Necklaces
+#  Original item: Treasure Chart 2
+#  Types: Spoils Trading
+#  Paths:
+#    - Orichh/Stage.arc/Event04C:Gp1_Get_Itm/Actor002/Action001
 #Windfall Island - Maggie's Father - Give More than 20 Skull Necklaces: # Doesn't work
 #  Need: Rescued Aryll & Spoils Bag & Can Farm Skull Necklaces
 #  Original item: Red Rupee
@@ -309,25 +309,25 @@ Windfall Island - Maggie's Father - Give 20 Skull Necklaces:
 #  Original item: Red Rupee
 #  Paths:
 #    - rels/d_a_npc_kf1.rel@1A23
-Windfall Island - Maggie - Free Item:
-  Need: Rescued Aryll
-  # Note: If you say no when she asks you to deliver her letter, she won't prompt you again - but that's temporary. Simply leave the room and re-enter and she will ask again.
-  Original item: Maggie's Letter
-  Types: Free Gift
-  Paths:
-    - rels/d_a_npc_kp1.rel@17D7
-Windfall Island - Maggie - Delivery Reward:
-  Need: Rescued Aryll & Delivery Bag & Moblin's Letter
-  Original item: Piece of Heart
-  Types: Short Sidequest
-  Paths:
-    - rels/d_a_npc_kp1.rel@1817
-Windfall Island - Cafe Bar - Postman:
-  Need: Rescued Aryll & Delivery Bag & Maggie's Letter
-  Original item: Moblin's Letter
-  Types: Short Sidequest
-  Paths:
-    - Opub/Stage.arc/Event00E:Get_Mo3_Ltr/Actor002/Action001
+#Windfall Island - Maggie - Free Item:
+#  Need: Rescued Aryll
+#  # Note: If you say no when she asks you to deliver her letter, she won't prompt you again - but that's temporary. Simply leave the room and re-enter and she will ask again.
+#  Original item: Maggie's Letter
+#  Types: Free Gift
+#  Paths:
+#    - rels/d_a_npc_kp1.rel@17D7
+#Windfall Island - Maggie - Delivery Reward:
+#  Need: Rescued Aryll & Delivery Bag & Moblin's Letter
+#  Original item: Piece of Heart
+#  Types: Short Sidequest
+#  Paths:
+#    - rels/d_a_npc_kp1.rel@1817
+#Windfall Island - Cafe Bar - Postman:
+#  Need: Rescued Aryll & Delivery Bag & Maggie's Letter
+#  Original item: Moblin's Letter
+#  Types: Short Sidequest
+#  Paths:
+#    - Opub/Stage.arc/Event00E:Get_Mo3_Ltr/Actor002/Action001
 Windfall Island - Kreeb - Light Up Lighthouse:
   Need: Fire Arrows
     # Need to activate the windmill and light up the lighthouse for him to give this to you.
@@ -346,12 +346,12 @@ Windfall Island - Transparent Chest:
     - sea/Room11.arc/Layer1/Chest000
     - sea/Room11.arc/Layer3/Chest000
     - sea/Room11.arc/Layer5/Chest000
-Windfall Island - Tott - Teach Rhythm:
-  Need: Wind Waker
-  Original item: Song of Passing
-  Types: Free Gift
-  Paths:
-    - sea/Stage.arc/Event0E3:TACT_TT11/Actor001/Action003
+#Windfall Island - Tott - Teach Rhythm:
+#  Need: Wind Waker
+#  Original item: Song of Passing
+#  Types: Free Gift
+#  Paths:
+#    - sea/Stage.arc/Event0E3:TACT_TT11/Actor001/Action003
 Windfall Island - Pirate Ship:
   Need: Nothing
   Original item: Bombs
@@ -359,30 +359,30 @@ Windfall Island - Pirate Ship:
   Paths:
     - Asoko/Stage.arc/Layer2/Chest000
     - Asoko/Stage.arc/Layer3/Chest000
-Windfall Island - 5 Rupee Auction:
-  Need: Nothing
-  Original item: Treasure Chart 18
-  Types: Expensive Purchase, Minigame
-  Paths:
-    - rels/d_a_auction.rel@4491
-Windfall Island - 40 Rupee Auction:
-  Need: Nothing
-  Original item: Joy Pendant
-  Types: Expensive Purchase, Minigame
-  Paths:
-    - rels/d_a_auction.rel@4489
-Windfall Island - 60 Rupee Auction:
-  Need: Nothing
-  Original item: Treasure Chart 38
-  Types: Expensive Purchase, Minigame
-  Paths:
-    - rels/d_a_auction.rel@4499
-Windfall Island - 80 Rupee Auction:
-  Need: Nothing
-  Original item: Piece of Heart
-  Types: Expensive Purchase, Minigame
-  Paths:
-    - rels/d_a_auction.rel@44A1
+#Windfall Island - 5 Rupee Auction:
+#  Need: Nothing
+#  Original item: Treasure Chart 18
+#  Types: Expensive Purchase, Minigame
+#  Paths:
+#    - rels/d_a_auction.rel@4491
+#Windfall Island - 40 Rupee Auction:
+#  Need: Nothing
+#  Original item: Joy Pendant
+#  Types: Expensive Purchase, Minigame
+#  Paths:
+#    - rels/d_a_auction.rel@4489
+#Windfall Island - 60 Rupee Auction:
+#  Need: Nothing
+#  Original item: Treasure Chart 38
+#  Types: Expensive Purchase, Minigame
+#  Paths:
+#    - rels/d_a_auction.rel@4499
+#Windfall Island - 80 Rupee Auction:
+#  Need: Nothing
+#  Original item: Piece of Heart
+#  Types: Expensive Purchase, Minigame
+#  Paths:
+#    - rels/d_a_auction.rel@44A1
 #Windfall Island - Zunari - Sail:
 #  Need: 
 #  Original item: Boat's Sail
@@ -393,20 +393,20 @@ Windfall Island - 80 Rupee Auction:
 #  Original item: Town Flower
 #  Paths:
 #    - rels/d_a_npc_rsh1.rel@30DF
-Windfall Island - Zunari - Stock Exotic Flower in Zunari's Shop:
-  Need: Rescued Aryll & Delivery Bag
-  Original item: Magic Armor
-  Types: Short Sidequest
-  Paths:
-    - rels/d_a_npc_rsh1.rel@3117
-    - rels/d_a_npc_rsh1.rel@338F
-    - CustomSymbol:zunari_magic_armor_slot_item_id
-Windfall Island - Sam - Decorate the Town:
-  Need: Rescued Aryll & Delivery Bag
-  Original item: Piece of Heart
-  Types: Long Sidequest
-  Paths:
-    - rels/d_a_npc_people.rel@C54B
+#Windfall Island - Zunari - Stock Exotic Flower in Zunari's Shop:
+#  Need: Rescued Aryll & Delivery Bag
+#  Original item: Magic Armor
+#  Types: Short Sidequest
+#  Paths:
+#    - rels/d_a_npc_rsh1.rel@3117
+#    - rels/d_a_npc_rsh1.rel@338F
+#    - CustomSymbol:zunari_magic_armor_slot_item_id
+#Windfall Island - Sam - Decorate the Town:
+#  Need: Rescued Aryll & Delivery Bag
+#  Original item: Piece of Heart
+#  Types: Long Sidequest
+#  Paths:
+#    - rels/d_a_npc_people.rel@C54B
 #Windfall Island - Kane - Place Shop Guru Statue on Gate: # Too obscure to randomize
 #  Need: Rescued Aryll & Delivery Bag
 #  Original item: Purple Rupee
@@ -428,12 +428,12 @@ Windfall Island - Sam - Decorate the Town:
 #  Original item: Red Rupee
 #  Paths:
 #    - rels/d_a_npc_people.rel@C227
-Windfall Island - Mila - Follow the Thief:
-  Need: Rescued Aryll
-  Original item: Empty Bottle
-  Types: Short Sidequest
-  Paths:
-    - sea/Stage.arc/Event084:get_empty_btl/Actor002/Action001
+#Windfall Island - Mila - Follow the Thief:
+#  Need: Rescued Aryll
+#  Original item: Empty Bottle
+#  Types: Short Sidequest
+#  Paths:
+#    - sea/Stage.arc/Event084:get_empty_btl/Actor002/Action001
 Windfall Island - Battlesquid - First Prize:
   Need: Nothing
   Original item: Piece of Heart
@@ -451,12 +451,12 @@ Windfall Island - Battlesquid - Second Prize:
 #  Original item: Purple Rupee
 #  Paths:
 #    - rels/d_a_npc_kg1.rel@2C2A
-Windfall Island - Battlesquid - Under 20 Shots Prize:
-  Need: Nothing
-  Original item: Treasure Chart 23
-  Types: Battlesquid
-  Paths:
-    - rels/d_a_npc_kg1.rel@2C2C
+#Windfall Island - Battlesquid - Under 20 Shots Prize:
+#  Need: Nothing
+#  Original item: Treasure Chart 23
+#  Types: Battlesquid
+#  Paths:
+#    - rels/d_a_npc_kg1.rel@2C2C
 #Windfall Island - Battlesquid - Under 20 Shots Prize 2+:
 #  Need: Nothing
 #  Original item: Orange Rupee
@@ -473,37 +473,37 @@ Windfall Island - Battlesquid - Under 20 Shots Prize:
 #  Original item: Red Rupee
 #  Paths:
 #    - rels/d_a_npc_people.rel@5BC3
-Windfall Island - Pompie and Vera - Secret Meeting Photo:
-  Need:
-    # Need to snap a photo of Lenzo and Minenco in Lenzo's house.
-    # Need Wind's Requiem to activate the Windmill.
-    # Need Picto Box because Lenzo will not unlock his upper door until you talk to him after obtaining it
-    Picto Box
-  Original item: Treasure Chart 24
-  Types: Short Sidequest
-  Paths:
-    - rels/d_a_npc_people.rel@C54F
-Windfall Island - Kamo - Full Moon Photo:
-  Need: Deluxe Picto Box
-  Original item: Treasure Chart 31
-  Types: Long Sidequest
-  Paths:
-    - rels/d_a_npc_people.rel@C55F
-Windfall Island - Minenco - Miss Windfall Photo:
-  Need: Deluxe Picto Box
-  Original item: Treasure Chart 33
-  Types: Short Sidequest
-  Paths:
-    - rels/d_a_npc_people.rel@C553
-Windfall Island - Linda and Anton:
-  Need: Deluxe Picto Box
-  # You must become Lenzo's assistant, then wait one day, then agree to help Linda.
-  # Then take a photo of Linda with the Deluxe Picto Box and show it to Anton. (You can do this before the parts with Lenzo and Linda if you want.)
-  # Then wait an additional two days, and Linda and Anton will be in the cafe.
-  Original item: Piece of Heart
-  Types: Long Sidequest
-  Paths:
-    - rels/d_a_npc_people.rel@C557
+#Windfall Island - Pompie and Vera - Secret Meeting Photo:
+#  Need:
+#    # Need to snap a photo of Lenzo and Minenco in Lenzo's house.
+#    # Need Wind's Requiem to activate the Windmill.
+#    # Need Picto Box because Lenzo will not unlock his upper door until you talk to him after obtaining it
+#    Picto Box
+#  Original item: Treasure Chart 24
+#  Types: Short Sidequest
+#  Paths:
+#    - rels/d_a_npc_people.rel@C54F
+#Windfall Island - Kamo - Full Moon Photo:
+#  Need: Deluxe Picto Box
+#  Original item: Treasure Chart 31
+#  Types: Long Sidequest
+#  Paths:
+#    - rels/d_a_npc_people.rel@C55F
+#Windfall Island - Minenco - Miss Windfall Photo:
+#  Need: Deluxe Picto Box
+#  Original item: Treasure Chart 33
+#  Types: Short Sidequest
+#  Paths:
+#    - rels/d_a_npc_people.rel@C553
+#Windfall Island - Linda and Anton:
+#  Need: Deluxe Picto Box
+#  # You must become Lenzo's assistant, then wait one day, then agree to help Linda.
+#  # Then take a photo of Linda with the Deluxe Picto Box and show it to Anton. (You can do this before the parts with Lenzo and Linda if you want.)
+#  # Then wait an additional two days, and Linda and Anton will be in the cafe.
+#  Original item: Piece of Heart
+#  Types: Long Sidequest
+#  Paths:
+#    - rels/d_a_npc_people.rel@C557
 
 
 #Dragon Roost Island - Gift from King of Red Lions:
@@ -539,12 +539,12 @@ Dragon Roost Island - Wind Shrine:
 #  Original item: Din's Pearl
 #  Paths:
 #    - main.dol@8035BD37
-Dragon Roost Island - Rito Aerie - Give Hoskit 20 Golden Feathers:
-  Need: Spoils Bag & Can Farm Golden Feathers
-  Original item: Orange Rupee
-  Types: Spoils Trading
-  Paths:
-    - Atorizk/Stage.arc/Event000:Get_Rupee/Actor002/Action001
+#Dragon Roost Island - Rito Aerie - Give Hoskit 20 Golden Feathers:
+#  Need: Spoils Bag & Can Farm Golden Feathers
+#  Original item: Orange Rupee
+#  Types: Spoils Trading
+#  Paths:
+#    - Atorizk/Stage.arc/Event000:Get_Rupee/Actor002/Action001
 Dragon Roost Island - Chest on Top of Boulder:
   Need:
     Hero's Bow
@@ -1257,12 +1257,12 @@ Fire Mountain - Lookout Platform - Destroy the Cannons:
   Types: Platform
   Paths:
     - sea/Room20.arc/Chest000
-Fire Mountain - Big Octo:
-  Need: Can Defeat Big Octos & Grappling Hook
-  Original item: Orange Rupee
-  Types: Big Octo
-  Paths:
-    - sea/Room20.arc/ScalableObject001
+#Fire Mountain - Big Octo:
+#  Need: Can Defeat Big Octos & Grappling Hook
+#  Original item: Orange Rupee
+#  Types: Big Octo
+#  Paths:
+#    - sea/Room20.arc/ScalableObject001
 
 Ice Ring Isle - Frozen Chest:
   Need: Fire Arrows
@@ -1775,141 +1775,141 @@ Ganon's Tower - Maze Chest:
     - GanonJ/Stage.arc/Chest000
 
 # Note: In the vanilla game, the mailbox would not give you any mail until you owned Din's Pearl. But this requirement is removed in the randomizer.
-Mailbox - Letter from Hoskit's Girlfriend:
-  Need: Spoils Bag & Can Farm Golden Feathers
-  # Need to wait for time to pass.
-  Original item: Piece of Heart (Alternate Message)
-  Types: Mail, Spoils Trading
-  Paths:
-    - rels/d_a_obj_toripost.rel@25DC
-Mailbox - Letter from Baito's Mother:
-  Need: Delivery Bag & Note to Mom
-  # Need to wait for time to pass.
-  Original item: Piece of Heart
-  Types: Mail
-  Paths:
-    - rels/d_a_obj_toripost.rel@2564
-    - rels/d_a_obj_toripost.rel@25C4
-Mailbox - Letter from Baito:
-  Need: Delivery Bag & Note to Mom & Can Access Other Location "Earth Temple - Jalhalla Heart Container"
-  # Need to kill Jalhalla and Baito's mom must have sent her letter (doesn't matter if you've read her letter or not).
-  # You do not need to wait for time to pass for this one, but because you did need to wait for time to pass for the one from his mother first, we still require Song of Passing here.
-  Original item: Red Rupee
-  Types: Mail, Dungeon
-  Paths:
-    - rels/d_a_obj_toripost.rel@25E8
-Mailbox - Letter from Komali's Father:
-  Need: Farore's Pearl
-  # Do not need to wait for time to pass.
-  Original item: Piece of Heart
-  Types: Mail
-  Paths:
-    - rels/d_a_obj_toripost.rel@2570
-Mailbox - Letter Advertising Bombs in Beedle's Shop:
-  Need: Bombs
-  Original item: Beedle's Chart
-  Types: Mail
-  Paths:
-    - rels/d_a_obj_toripost.rel@257C
-Mailbox - Letter Advertising Rock Spire Shop Ship:
-  Need: Any Wallet Upgrade
-  Original item: Green Rupee
-  Types: Mail
-  Paths:
-    - rels/d_a_obj_toripost.rel@25A0
-Mailbox - Beedle's Silver Membership Reward:
-  Need:
-    (
-      Bait Bag
-      | Bombs
-      | Hero's Bow
-      | Empty Bottle
-    ) 
-  # In order to get enough points to become a silver/gold member, you need to buy consumables.
-  # Bait bag is needed to buy bait, bombs are needed to buy bombs, bow is needed to buy arrows, and empty bottle is needed to buy red potions.
-  # Need to wait for time to pass.
-  Original item: Complimentary ID
-  Types: Mail, Misc, Expensive Purchase # Too tedious to buy 30 items just to progress
-  Paths:
-    - rels/d_a_obj_toripost.rel@25D0
-Mailbox - Beedle's Gold Membership Reward:
-  Need:
-    (
-      Bait Bag
-      | Bombs
-      | Hero's Bow
-      | Empty Bottle
-    )
-  # In order to get enough points to become a silver/gold member, you need to buy consumables.
-  # Bait bag is needed to buy bait, bombs are needed to buy bombs, bow is needed to buy arrows, and empty bottle is needed to buy red potions.
-  # Need to wait for time to pass.
-  Original item: Fill-Up Coupon
-  Types: Mail, Misc, Expensive Purchase # Too tedious to buy 60 items just to progress
-  Paths:
-    - rels/d_a_obj_toripost.rel@25F4
-Mailbox - Letter from Orca:
-  Need: Can Access Other Location "Forbidden Woods - Kalle Demos Heart Container"
-  # Note: In the vanilla game, this letter is sent after you watch a cutscene on Greatfish Isle.
-  # But since that's impossible when cutscenes are removed, the randomizer changes it to be sent when you kill Kalle Demos.
-  # Do not need to wait for time to pass.
-  Original item: Red Rupee
-  Types: Mail, Dungeon
-  Paths:
-    - rels/d_a_obj_toripost.rel@2588
-Mailbox - Letter from Grandma:
-  Need: Empty Bottle & Can Get Fairies
-  # Need to wait for time to pass.
-  Original item: Red Rupee
-  Types: Mail
-  Paths:
-    - rels/d_a_obj_toripost.rel@2594
-Mailbox - Letter from Aryll:
-  Need: Can Access Other Location "Forsaken Fortress - Helmaroc King Heart Container"
-  # Note: In the vanilla game, this letter is sent after you watch a cutscene in Hyrule 2.
-  # But since that's impossible when cutscenes are removed, the randomizer changes it to be sent when you kill Helmaroc King.
-  # Need to wait for time to pass.
-  Original item: Red Rupee
-  Types: Mail, Dungeon
-  Paths:
-    - rels/d_a_obj_toripost.rel@25B8
-Mailbox - Letter from Tingle:
-  Need: Rescued Tingle & Any Wallet Upgrade & Can Access Other Location "Forsaken Fortress - Helmaroc King Heart Container" & Song of Passing
-  # You need a wallet upgrade because it costs 201 rupees to receive this letter.
-  # Note: In the vanilla game, this letter is sent after you watch a cutscene in Hyrule 2.
-  # But since that's impossible when cutscenes are removed, the randomizer changes it to be sent when you kill Helmaroc King.
-  # Need to wait for time to pass.
-  Original item: IN-credible Chart
-  Types: Mail, Dungeon, Expensive Purchase
-  Paths:
-    - rels/d_a_obj_toripost.rel@25AC
+#Mailbox - Letter from Hoskit's Girlfriend:
+#  Need: Spoils Bag & Can Farm Golden Feathers
+#  # Need to wait for time to pass.
+#  Original item: Piece of Heart (Alternate Message)
+#  Types: Mail, Spoils Trading
+#  Paths:
+#    - rels/d_a_obj_toripost.rel@25DC
+#Mailbox - Letter from Baito's Mother:
+#  Need: Delivery Bag & Note to Mom
+#  # Need to wait for time to pass.
+#  Original item: Piece of Heart
+#  Types: Mail
+#  Paths:
+#    - rels/d_a_obj_toripost.rel@2564
+#    - rels/d_a_obj_toripost.rel@25C4
+#Mailbox - Letter from Baito:
+#  Need: Delivery Bag & Note to Mom & Can Access Other Location "Earth Temple - Jalhalla Heart Container"
+#  # Need to kill Jalhalla and Baito's mom must have sent her letter (doesn't matter if you've read her letter or not).
+#  # You do not need to wait for time to pass for this one, but because you did need to wait for time to pass for the one from his mother first, we still require Song of Passing here.
+#  Original item: Red Rupee
+#  Types: Mail, Dungeon
+#  Paths:
+#    - rels/d_a_obj_toripost.rel@25E8
+#Mailbox - Letter from Komali's Father:
+#  Need: Farore's Pearl
+#  # Do not need to wait for time to pass.
+#  Original item: Piece of Heart
+#  Types: Mail
+#  Paths:
+#    - rels/d_a_obj_toripost.rel@2570
+#Mailbox - Letter Advertising Bombs in Beedle's Shop:
+#  Need: Bombs
+#  Original item: Beedle's Chart
+#  Types: Mail
+#  Paths:
+#    - rels/d_a_obj_toripost.rel@257C
+#Mailbox - Letter Advertising Rock Spire Shop Ship:
+#  Need: Any Wallet Upgrade
+#  Original item: Green Rupee
+#  Types: Mail
+#  Paths:
+#    - rels/d_a_obj_toripost.rel@25A0
+#Mailbox - Beedle's Silver Membership Reward:
+#  Need:
+#    (
+#      Bait Bag
+#      | Bombs
+#      | Hero's Bow
+#      | Empty Bottle
+#    ) 
+#  # In order to get enough points to become a silver/gold member, you need to buy consumables.
+#  # Bait bag is needed to buy bait, bombs are needed to buy bombs, bow is needed to buy arrows, and empty bottle is needed to buy red potions.
+#  # Need to wait for time to pass.
+#  Original item: Complimentary ID
+#  Types: Mail, Misc, Expensive Purchase # Too tedious to buy 30 items just to progress
+#  Paths:
+#    - rels/d_a_obj_toripost.rel@25D0
+#Mailbox - Beedle's Gold Membership Reward:
+#  Need:
+#    (
+#      Bait Bag
+#      | Bombs
+#      | Hero's Bow
+#      | Empty Bottle
+#    )
+#  # In order to get enough points to become a silver/gold member, you need to buy consumables.
+#  # Bait bag is needed to buy bait, bombs are needed to buy bombs, bow is needed to buy arrows, and empty bottle is needed to buy red potions.
+#  # Need to wait for time to pass.
+#  Original item: Fill-Up Coupon
+#  Types: Mail, Misc, Expensive Purchase # Too tedious to buy 60 items just to progress
+#  Paths:
+#    - rels/d_a_obj_toripost.rel@25F4
+#Mailbox - Letter from Orca:
+#  Need: Can Access Other Location "Forbidden Woods - Kalle Demos Heart Container"
+#  # Note: In the vanilla game, this letter is sent after you watch a cutscene on Greatfish Isle.
+#  # But since that's impossible when cutscenes are removed, the randomizer changes it to be sent when you kill Kalle Demos.
+#  # Do not need to wait for time to pass.
+#  Original item: Red Rupee
+#  Types: Mail, Dungeon
+#  Paths:
+#    - rels/d_a_obj_toripost.rel@2588
+#Mailbox - Letter from Grandma:
+#  Need: Empty Bottle & Can Get Fairies
+#  # Need to wait for time to pass.
+#  Original item: Red Rupee
+#  Types: Mail
+#  Paths:
+#    - rels/d_a_obj_toripost.rel@2594
+#Mailbox - Letter from Aryll:
+#  Need: Can Access Other Location "Forsaken Fortress - Helmaroc King Heart Container"
+#  # Note: In the vanilla game, this letter is sent after you watch a cutscene in Hyrule 2.
+#  # But since that's impossible when cutscenes are removed, the randomizer changes it to be sent when you kill Helmaroc King.
+#  # Need to wait for time to pass.
+#  Original item: Red Rupee
+#  Types: Mail, Dungeon
+#  Paths:
+#    - rels/d_a_obj_toripost.rel@25B8
+#Mailbox - Letter from Tingle:
+#  Need: Rescued Tingle & Any Wallet Upgrade & Can Access Other Location "Forsaken Fortress - Helmaroc King Heart Container" & Song of Passing
+#  # You need a wallet upgrade because it costs 201 rupees to receive this letter.
+#  # Note: In the vanilla game, this letter is sent after you watch a cutscene in Hyrule 2.
+#  # But since that's impossible when cutscenes are removed, the randomizer changes it to be sent when you kill Helmaroc King.
+#  # Need to wait for time to pass.
+#  Original item: IN-credible Chart
+#  Types: Mail, Dungeon, Expensive Purchase
+#  Paths:
+#    - rels/d_a_obj_toripost.rel@25AC
 
-The Great Sea - Beedle's Shop Ship - 20 Rupee Item:
-  Need: Nothing
-  Original item: Bait Bag
-  Types: Misc
-  Paths:
-    - main.dol@80375E1F
-    - rels/d_a_npc_bs1.rel@1CDB
-    - rels/d_a_npc_bs1.rel@2DBB
-The Great Sea - Salvage Corp Gift:
-  Need: Nothing
-  Original item: Treasure Chart 34
-  Types: Free Gift
-  Paths:
-    - rels/d_a_npc_sv.rel@3327
+#The Great Sea - Beedle's Shop Ship - 20 Rupee Item:
+#  Need: Nothing
+#  Original item: Bait Bag
+#  Types: Misc
+#  Paths:
+#    - main.dol@80375E1F
+#    - rels/d_a_npc_bs1.rel@1CDB
+#    - rels/d_a_npc_bs1.rel@2DBB
+#The Great Sea - Salvage Corp Gift:
+#  Need: Nothing
+#  Original item: Treasure Chart 34
+#  Types: Free Gift
+#  Paths:
+#    - rels/d_a_npc_sv.rel@3327
 The Great Sea - Cyclos:
   Need: Hero's Bow
   Original item: Ballad of Gales
   Types: Misc
   Paths:
     - sea/Stage.arc/Event0E0:TACT1_RT/Actor001/Action003
-The Great Sea - Goron Trading Reward:
-  Need: Rescued Aryll & Delivery Bag
-  # You need at least 560 rupees to get the final item, but you don't need a wallet upgrade since the most you need at one time is 200 rupees.
-  Original item: Piece of Heart
-  Types: Long Sidequest, Expensive Purchase
-  Paths:
-    - rels/d_a_npc_roten.rel@533B
+#The Great Sea - Goron Trading Reward:
+#  Need: Rescued Aryll & Delivery Bag
+#  # You need at least 560 rupees to get the final item, but you don't need a wallet upgrade since the most you need at one time is 200 rupees.
+#  Original item: Piece of Heart
+#  Types: Long Sidequest, Expensive Purchase
+#  Paths:
+#    - rels/d_a_npc_roten.rel@533B
 The Great Sea - Withered Trees:
   Need:
     Grappling Hook
@@ -1987,25 +1987,25 @@ Private Oasis - Cabana Labyrinth - Upper Floor Chest:
   Types: Puzzle Secret Cave
   Paths:
     - TF_04/Stage.arc/Chest000
-Private Oasis - Big Octo:
-  Need: Can Defeat Big Octos & Grappling Hook
-  Original item: Orange Rupee
-  Types: Big Octo
-  Paths:
-    - sea/Room33.arc/ScalableObject015
+#Private Oasis - Big Octo:
+#  Need: Can Defeat Big Octos & Grappling Hook
+#  Original item: Orange Rupee
+#  Types: Big Octo
+#  Paths:
+#    - sea/Room33.arc/ScalableObject015
 
-Spectacle Island - Barrel Shooting - First Prize:
-  Need: Nothing
-  Original item: Piece of Heart
-  Types: Minigame
-  Paths:
-    - rels/d_a_npc_kg2.rel@20FF
-Spectacle Island - Barrel Shooting - Second Prize:
-  Need: Nothing
-  Original item: Treasure Chart 17
-  Types: Minigame
-  Paths:
-    - rels/d_a_npc_kg2.rel@2107
+#Spectacle Island - Barrel Shooting - First Prize:
+#  Need: Nothing
+#  Original item: Piece of Heart
+#  Types: Minigame
+#  Paths:
+#    - rels/d_a_npc_kg2.rel@20FF
+#Spectacle Island - Barrel Shooting - Second Prize:
+#  Need: Nothing
+#  Original item: Treasure Chart 17
+#  Types: Minigame
+#  Paths:
+#    - rels/d_a_npc_kg2.rel@2107
 #Spectacle Island - Barrel Shooting - Prize 3+:
 #  Need: 
 #  Original item: Orange Rupee
@@ -2196,12 +2196,12 @@ Pawprint Isle - Lookout Platform - Defeat the Enemies:
   Paths:
     - sea/Room12.arc/Chest000
 
-Thorned Fairy Island - Great Fairy:
-  Need: Skull Hammer
-  Original item: 99 Arrow Quiver
-  Types: Great Fairy
-  Paths:
-    - rels/d_a_bigelf.rel@221F
+#Thorned Fairy Island - Great Fairy:
+#  Need: Skull Hammer
+#  Original item: 99 Arrow Quiver
+#  Types: Great Fairy
+#  Paths:
+#    - rels/d_a_bigelf.rel@221F
 Thorned Fairy Island - Northeastern Lookout Platform - Destroy the Cannons:
   Need: Can Destroy Cannons
   Original item: Golden Feather
@@ -2216,12 +2216,12 @@ Thorned Fairy Island - Southwestern Lookout Platform - Defeat the Enemies:
   Paths:
     - sea/Room28.arc/Chest001
 
-Eastern Fairy Island - Great Fairy:
-  Need: Can Move Boulders
-  Original item: 60 Bomb Bomb Bag
-  Types: Great Fairy
-  Paths:
-    - rels/d_a_bigelf.rel@21E7
+#Eastern Fairy Island - Great Fairy:
+#  Need: Can Move Boulders
+#  Original item: 60 Bomb Bomb Bag
+#  Types: Great Fairy
+#  Paths:
+#    - rels/d_a_bigelf.rel@21E7
 Eastern Fairy Island - Lookout Platform - Defeat the Cannons and Enemies:
   Need: Can Destroy Cannons
     # The Pink Bokoblins can be knocked off the edge by throwing pots at them. You don't have many shots at this before running out of pots, so it's best to do it while they're still asleep.
@@ -2230,12 +2230,12 @@ Eastern Fairy Island - Lookout Platform - Defeat the Cannons and Enemies:
   Paths:
     - sea/Room19.arc/Chest000
 
-Western Fairy Island - Great Fairy:
-  Need: Skull Hammer
-  Original item: 60 Arrow Quiver
-  Types: Great Fairy
-  Paths:
-    - rels/d_a_bigelf.rel@2213
+#Western Fairy Island - Great Fairy:
+#  Need: Skull Hammer
+#  Original item: 60 Arrow Quiver
+#  Types: Great Fairy
+#  Paths:
+#    - rels/d_a_bigelf.rel@2213
 Western Fairy Island - Lookout Platform:
   Need: Nothing
   Original item: Skull Necklace
@@ -2243,12 +2243,12 @@ Western Fairy Island - Lookout Platform:
   Paths:
     - sea/Room15.arc/Chest000
 
-Southern Fairy Island - Great Fairy:
-  Need: Bombs | Fire Arrows # Can either blow up or burn the blockade
-  Original item: 99 Bomb Bomb Bag
-  Types: Great Fairy
-  Paths:
-    - rels/d_a_bigelf.rel@21F3
+#Southern Fairy Island - Great Fairy:
+#  Need: Bombs | Fire Arrows # Can either blow up or burn the blockade
+#  Original item: 99 Bomb Bomb Bag
+#  Types: Great Fairy
+#  Paths:
+#    - rels/d_a_bigelf.rel@21F3
 Southern Fairy Island - Lookout Platform - Destroy the Northwest Cannons:
   Need:
     Can Destroy Cannons
@@ -2266,12 +2266,12 @@ Southern Fairy Island - Lookout Platform - Destroy the Southeast Cannons:
   Paths:
     - sea/Room39.arc/Chest001
 
-Northern Fairy Island - Great Fairy:
-  Need: Nothing
-  Original item: 1000 Rupee Wallet
-  Types: Great Fairy
-  Paths:
-    - rels/d_a_bigelf.rel@21BB
+#Northern Fairy Island - Great Fairy:
+#  Need: Nothing
+#  Original item: 1000 Rupee Wallet
+#  Types: Great Fairy
+#  Paths:
+#    - rels/d_a_bigelf.rel@21BB
 Northern Fairy Island - Submarine:
   Need: Nothing
     # No need to kill the Moblins here.
@@ -2305,17 +2305,17 @@ Northern Fairy Island - Submarine:
 #  Original item: 250 Rupees, reward for finding 5 Tingle Statues
 #  Paths:
 #    - rels/d_a_npc_tc.rel@619F
-Tingle Island - Ankle - Reward for All Tingle Statues:
-  Need:
-    Dragon Tingle Statue
-    & Forbidden Tingle Statue
-    & Goddess Tingle Statue
-    & Earth Tingle Statue
-    & Wind Tingle Statue
-  Original item: Rainbow Rupee
-  Types: Misc
-  Paths:
-    - rels/d_a_npc_tc.rel@6143
+#Tingle Island - Ankle - Reward for All Tingle Statues:
+#  Need:
+#    Dragon Tingle Statue
+#    & Forbidden Tingle Statue
+#    & Goddess Tingle Statue
+#    & Earth Tingle Statue
+#    & Wind Tingle Statue
+#  Original item: Rainbow Rupee
+#  Types: Misc
+#  Paths:
+#    - rels/d_a_npc_tc.rel@6143
 #Tingle Island - Tingle - Triforce Chart 1 Deciphered:
 #  Need: 
 #  Original item: Triforce Chart 1 got deciphered
@@ -2356,12 +2356,12 @@ Tingle Island - Ankle - Reward for All Tingle Statues:
 #  Original item: Triforce Chart 8 got deciphered
 #  Paths:
 #    - rels/d_a_npc_tc.rel@620F
-Tingle Island - Big Octo:
-  Need: Can Defeat 12 Eye Big Octos & Grappling Hook
-  Original item: Piece of Heart
-  Types: Big Octo
-  Paths:
-    - sea/Room17.arc/ScalableObject001
+#Tingle Island - Big Octo:
+#  Need: Can Defeat 12 Eye Big Octos & Grappling Hook
+#  Original item: Piece of Heart
+#  Types: Big Octo
+#  Paths:
+#    - sea/Room17.arc/ScalableObject001
 
 Diamond Steppe Island - Warp Maze Cave - First Chest:
   Need: Can Access Diamond Steppe Island Warp Maze Cave
@@ -2377,12 +2377,12 @@ Diamond Steppe Island - Warp Maze Cave - Second Chest:
   Types: Puzzle Secret Cave
   Paths:
     - WarpD/Stage.arc/Chest000
-Diamond Steppe Island - Big Octo:
-  Need: Can Defeat Big Octos & Grappling Hook
-  Original item: Orange Rupee
-  Types: Big Octo
-  Paths:
-    - sea/Room36.arc/ScalableObject001
+#Diamond Steppe Island - Big Octo:
+#  Need: Can Defeat Big Octos & Grappling Hook
+#  Original item: Orange Rupee
+#  Types: Big Octo
+#  Paths:
+#    - sea/Room36.arc/ScalableObject001
 
 Bomb Island - Cave:
   Need:
@@ -2462,12 +2462,12 @@ Rock Spire Isle - Center Lookout Platform:
   Types: Platform
   Paths:
     - sea/Room16.arc/Chest002
-Rock Spire Isle - Southeast Gunboat:
-  Need: Bombs & Grappling Hook
-  Original item: Piece of Heart
-  Types: Gunboat
-  Paths:
-    - sea/Room16.arc/ScalableObject000
+#Rock Spire Isle - Southeast Gunboat:
+#  Need: Bombs & Grappling Hook
+#  Original item: Piece of Heart
+#  Types: Gunboat
+#  Paths:
+#    - sea/Room16.arc/ScalableObject000
 
 Shark Island - Cave:
   Need:
@@ -2549,14 +2549,14 @@ Horseshoe Island - Southeastern Lookout Platform:
   Paths:
     - sea/Room43.arc/Chest002
 
-Flight Control Platform - Bird-Man Contest - First Prize:
-  Need:
-    Deku Leaf
-    & Magic Meter Upgrade
-  Original item: Piece of Heart
-  Types: Minigame
-  Paths:
-    - rels/d_a_npc_bmcon1.rel@2B7B
+#Flight Control Platform - Bird-Man Contest - First Prize:
+#  Need:
+#    Deku Leaf
+#    & Magic Meter Upgrade
+#  Original item: Piece of Heart
+#  Types: Minigame
+#  Paths:
+#    - rels/d_a_npc_bmcon1.rel@2B7B
 #Flight Control Platform - Bird-Man Contest - Prize 2+:
 #  Need: 
 #  Original item: Purple Rupee
@@ -2638,12 +2638,12 @@ Seven-Star Isles - Southern Lookout Platform:
   Types: Platform
   Paths:
     - sea/Room6.arc/Chest002
-Seven-Star Isles - Big Octo:
-  Need: Can Defeat 12 Eye Big Octos & Grappling Hook
-  Original item: Piece of Heart
-  Types: Big Octo
-  Paths:
-    - sea/Room6.arc/ScalableObject000
+#Seven-Star Isles - Big Octo:
+#  Need: Can Defeat 12 Eye Big Octos & Grappling Hook
+#  Original item: Piece of Heart
+#  Types: Big Octo
+#  Paths:
+#    - sea/Room6.arc/ScalableObject000
 
 Cyclops Reef - Destroy the Cannons and Gunboats:
   Need:
