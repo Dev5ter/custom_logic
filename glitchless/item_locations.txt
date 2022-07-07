@@ -2027,12 +2027,12 @@ Needle Rock Isle - Cave:
   Types: Puzzle Secret Cave
   Paths:
     - SubD42/Stage.arc/Chest000
-Needle Rock Isle - Golden Gunboat:
-  Need: Bombs & Grappling Hook
-  Original item: Triforce Chart 5
-  Types: Gunboat
-  Paths:
-    - sea/Room29.arc/ScalableObject00D
+#Needle Rock Isle - Golden Gunboat:
+#  Need: Bombs & Grappling Hook
+#  Original item: Triforce Chart 5
+#  Types: Gunboat
+#  Paths:
+#    - sea/Room29.arc/ScalableObject00D
 
 Angular Isles - Peak:
   Need: Nothing
