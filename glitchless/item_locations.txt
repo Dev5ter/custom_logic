@@ -2809,7 +2809,7 @@ Overlook Island - Sunken Treasure:
     - sea/Room7.arc/ScalableObject008
     - sea/Room7.arc/ScalableObject009
 Four-Eye Reef - Sunken Treasure:
-  Need: Grappling Hook & Chart for Island 8 & Bombs
+  Need: Grappling Hook & Chart for Island 8
   # The cannons and gunboats can get in the way when trying to salvage this treasure, so being able to destroy them makes this easier.
   Original item: Great Fairy Chart
   Types: Sunken Treasure
@@ -2936,7 +2936,7 @@ Star Belt Archipelago - Sunken Treasure:
     - sea/Room21.arc/ScalableObject00B
     - sea/Room21.arc/ScalableObject00C
 Three-Eye Reef - Sunken Treasure:
-  Need: Grappling Hook & Chart for Island 22 & Bombs
+  Need: Grappling Hook & Chart for Island 22
   # The cannons and gunboats can get in the way when trying to salvage this treasure, so being able to destroy them makes this easier.
   Original item: Piece of Heart
   Types: Sunken Treasure
@@ -2955,7 +2955,7 @@ Greatfish Isle - Sunken Treasure:
     - sea/Room23.arc/ScalableObject007
     - sea/Room23.arc/ScalableObject008
 Cyclops Reef - Sunken Treasure:
-  Need: Grappling Hook & Chart for Island 24 & Bombs
+  Need: Grappling Hook & Chart for Island 24
   # The cannons and gunboats can get in the way when trying to salvage this treasure, so being able to destroy them makes this easier.
   Original item: Light Ring Chart
   Types: Sunken Treasure
@@ -2965,7 +2965,7 @@ Cyclops Reef - Sunken Treasure:
     - sea/Room24.arc/ScalableObject00E
     - sea/Room24.arc/ScalableObject00F
 Six-Eye Reef - Sunken Treasure:
-  Need: Grappling Hook & Chart for Island 25 & Bombs
+  Need: Grappling Hook & Chart for Island 25
   # The cannons and gunboats can get in the way when trying to salvage this treasure, so being able to destroy them makes this easier.
   Original item: Silver Rupee
   Types: Sunken Treasure
@@ -3077,7 +3077,7 @@ Diamond Steppe Island - Sunken Treasure:
     - sea/Room36.arc/ScalableObject00B
     - sea/Room36.arc/ScalableObject00C
 Five-Eye Reef - Sunken Treasure:
-  Need: Grappling Hook & Chart for Island 37 & Can Destroy Cannons
+  Need: Grappling Hook & Chart for Island 37
   # The cannons can get in the way when trying to salvage this treasure, so being able to destroy them makes this easier.
   Original item: Silver Rupee
   Types: Sunken Treasure
@@ -3159,7 +3159,7 @@ Headstone Island - Sunken Treasure:
     - sea/Room45.arc/ScalableObject028
     - sea/Room45.arc/ScalableObject029
 Two-Eye Reef - Sunken Treasure:
-  Need: Grappling Hook & Chart for Island 46 & Bombs
+  Need: Grappling Hook & Chart for Island 46
   # The cannons and gunboats can get in the way when trying to salvage this treasure, so being able to destroy them makes this easier.
   Original item: Triforce Shard 8
   Types: Sunken Treasure
